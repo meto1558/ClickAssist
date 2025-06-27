@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.meto1558.clickassist.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
